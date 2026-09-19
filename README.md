@@ -63,6 +63,8 @@ pip install -r requirements.txt
 cp .env.example .env   # add your ANTHROPIC_API_KEY for the AI Analyst tab
 streamlit run app.py
 ```
+https://aifmcgsalesanalyst-dsnvrryu2arawd3pe9ovapp.streamlit.app/
+
 
 Upload any FMCG sales export (CSV/Excel). The app works without an API
 key too — every tab except "AI Analyst" is pure deterministic Python.
